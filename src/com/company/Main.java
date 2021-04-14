@@ -1,4 +1,11 @@
 package com.company;
+/**
+  @author   Volodymyr Lakusta
+  @project   vsem4
+  @class  Main
+  @version  1.0.0
+  @since 14.04.2021 - 20.51
+**/
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -49,3 +56,4 @@ public class Main {
      */
 
 }
+
